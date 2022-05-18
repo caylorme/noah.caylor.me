@@ -14,7 +14,7 @@ disqusShortname = "noah-caylor-me"
 
 [params]
   author = "Noah Caylor"
-  info = "Fun, Awesome Little Dude"
+  info = ["Fun, Awesome Little Dude", "I'm turning ONE!"]
   description = "Noah Caylor's personal website"
   keywords = ""
   avatarurl = "images/avatar.jpg"
@@ -24,8 +24,8 @@ disqusShortname = "noah-caylor-me"
 
   enableTwemoji = true
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
+  colorScheme = "light"
+  hidecolorschemetoggle = true
 
 
 [taxonomies]
