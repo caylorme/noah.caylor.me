@@ -10,7 +10,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "@jason_caylor"
 
 [params]
   author = "Noah Caylor"
@@ -60,3 +60,7 @@ disqusShortname = "yourdiscussshortname"
   name = "About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "RSVP"
+  weight = 2
+  url = "rsvp/"
