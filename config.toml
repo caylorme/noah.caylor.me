@@ -1,0 +1,62 @@
+baseurl = "https://noah.caylor.me"
+title = "Noah Caylor"
+theme = "hugo-coder"
+languagecode = "en-us"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Noah Caylor"
+  info = "Fun, Awesome Little Dude"
+  description = "Noah Caylor's personal website"
+  keywords = ""
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# # Social links
+# [[params.social]]
+#   name = "Github"
+#   icon = "fa fa-github fa-2x"
+#   weight = 1
+#   url = "https://github.com/johndoe/"
+# [[params.social]]
+#   name = "Gitlab"
+#   icon = "fa fa-gitlab fa-2x"
+#   weight = 2
+#   url = "https://gitlab.com/johndoe/"
+# [[params.social]]
+#   name = "Twitter"
+#   icon = "fa fa-twitter fa-2x"
+#   weight = 3
+#   url = "https://twitter.com/johndoe/"
+
+# # Menu links
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 1
+#   url  = "posts/"
+# [[menu.main]]
+#   name = "About"
+#   weight = 2
+#   url = "about/"
