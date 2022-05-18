@@ -61,6 +61,10 @@ disqusShortname = "noah-caylor-me"
   weight = 2
   url = "about/"
 [[menu.main]]
+  name = "Party Info"
+  weight = 2
+  url = "party/"
+[[menu.main]]
   name = "RSVP"
   weight = 2
   url = "rsvp/"
