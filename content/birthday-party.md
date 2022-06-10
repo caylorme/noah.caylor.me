@@ -43,6 +43,11 @@ If you have dietary restrictions or preferences and would like to request additi
 
 ### Beverages
 
+ - Orange Juice
+ - Sweet Tea
+ - Water
+
+
 Alcoholic and non-alcoholic beverages will be served at the party. Feel free to **BYOB**. A list of provided beverages will be posted here soon.
 
 ### After-Party
