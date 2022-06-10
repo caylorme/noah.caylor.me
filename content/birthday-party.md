@@ -8,7 +8,7 @@ slug: party
 
 ### Location
 
-The location of the party has moved to our residence. The address is available upon request, please use the [RSVP](rsvp.html) page for contact information.
+The location of the party has moved to our residence. The address is available upon request, please use the [RSVP](/rsvp/) page for contact information.
 
 ~~The party will be held at **The Terrace Room** in the Bentwater HOA Clubhouse.~~
 
