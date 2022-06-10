@@ -8,13 +8,16 @@ slug: party
 
 ### Location
 
-The party will be held at **The Terrace Room** in the Bentwater HOA Clubhouse.
+The location of the party has moved to our residence. The address is available upon request, please use the [RSVP](rsvp.html) page for contact information.
 
-The address to the clubhouse is `3730 CEDARCREST ROAD, ACWORTH, GA, 30101`.
+~~The party will be held at **The Terrace Room** in the Bentwater HOA Clubhouse.~~
 
-This room is **downstairs** on the bottom floor of the clubhouse, and has a complete kitchen.
+~~The address to the clubhouse is `3730 CEDARCREST ROAD, ACWORTH, GA, 30101`.~~
 
-Parking is available all around the clubhouse in adjacent parking lots.
+~~This room is **downstairs** on the bottom floor of the clubhouse, and has a complete kitchen.~~
+
+~~Parking is available all around the clubhouse in adjacent parking lots.~~
+
 
 ### Time
 
