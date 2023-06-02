@@ -3,6 +3,7 @@ title = "Noah Caylor"
 theme = "hugo-coder"
 languagecode = "en-us"
 defaultcontentlanguage = "en"
+assetDir="static"
 
 paginate = 20
 
@@ -14,10 +15,10 @@ disqusShortname = "noah-caylor-me"
 
 [params]
   author = "Noah Caylor"
-  info = ["Fun, Awesome Little Dude", "I'm turning ONE!"]
+  info = ["Fun, Awesome Little Dude", "I'm turning TWO!"]
   description = "Noah Caylor's personal website"
   keywords = ""
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/noah/IMG_7454.PNG"
   #gravatar = "john.doe@example.com"
 
   since = 2021
