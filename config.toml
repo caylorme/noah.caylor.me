@@ -18,7 +18,7 @@ disqusShortname = "noah-caylor-me"
   info = ["Fun, Awesome Little Dude", "I'm turning TWO!"]
   description = "Noah Caylor's personal website"
   keywords = ""
-  avatarurl = "images/noah/IMG_7454.PNG"
+  avatarurl = "images/IMG_7454.PNG"
   #gravatar = "john.doe@example.com"
 
   since = 2021
@@ -28,6 +28,12 @@ disqusShortname = "noah-caylor-me"
   colorScheme = "light"
   hidecolorschemetoggle = true
 
+[imaging]
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = false
+    excludeFields = ""
+    includeFields = ""
 
 [taxonomies]
   category = "categories"
